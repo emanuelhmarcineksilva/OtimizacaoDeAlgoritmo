@@ -1,4 +1,0 @@
-﻿metodo,execucoes,sucessos,taxa_sucesso_pct,avaliacoes_sucesso_media,avaliacoes_sucesso_melhor,avaliacoes_sucesso_pior,conflitos_falhas_media,conflitos_falhas_melhor,conflitos_falhas_pior,orcamento_por_execucao
-Sorteio aleatorio,30,0,0.0,n/a,n/a,n/a,7.1,5,8,10000
-Hill Climbing com reinicio,30,14,46.7,4010.1,2095,8080,1.0,1,1,10000
-Simulated Annealing,30,30,100.0,1445.9,376,3510,n/a,n/a,n/a,10000
