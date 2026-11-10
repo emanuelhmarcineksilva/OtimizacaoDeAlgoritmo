@@ -1,0 +1,5 @@
+﻿metodo,execucoes,sucessos,taxa_sucesso_pct,avaliacoes_sucesso_media,avaliacoes_sucesso_melhor,avaliacoes_sucesso_pior,avaliacoes_sucesso_mediana,avaliacoes_sucesso_desvio_padrao,conflitos_falhas_media,conflitos_falhas_melhor,conflitos_falhas_pior,conflitos_falhas_mediana,conflitos_falhas_desvio_padrao,orcamento_por_execucao,geracoes_maximas_observadas
+Sorteio aleatorio,30,0,0.0,n/a,n/a,n/a,n/a,n/a,7.1,5,8,7.0,0.8,10000,0
+Hill Climbing com reinicio,30,14,46.7,4010.1,2095,8080,3427.0,1699.5,1.0,1,1,1.0,0.0,10000,0
+Simulated Annealing,30,30,100.0,1445.9,376,3510,986.0,937.8,n/a,n/a,n/a,n/a,n/a,10000,0
+Algoritmo Genetico,30,2,6.7,3168.5,2954,3383,3168.5,214.5,1.6,1,3,2.0,0.6,10000,200

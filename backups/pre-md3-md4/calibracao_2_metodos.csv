@@ -1,0 +1,21 @@
+﻿metodo,configuracao,execucao,semente,orcamento,avaliacoes,sucesso,avaliacoes_ate_solucao,melhor_conflitos
+Hill Climbing com reinicio,empate_aleatorio,1,20291109,2000,2000,False,,5
+Hill Climbing com reinicio,empate_aleatorio,2,20291110,2000,2000,False,,4
+Hill Climbing com reinicio,empate_aleatorio,3,20291111,2000,2000,False,,2
+Hill Climbing com reinicio,empate_aleatorio,4,20291112,2000,2000,False,,4
+Hill Climbing com reinicio,empate_aleatorio,5,20291113,2000,2000,False,,2
+Hill Climbing com reinicio,primeiro_empate,1,20291109,2000,2000,False,,7
+Hill Climbing com reinicio,primeiro_empate,2,20291110,2000,2000,False,,5
+Hill Climbing com reinicio,primeiro_empate,3,20291111,2000,2000,False,,2
+Hill Climbing com reinicio,primeiro_empate,4,20291112,2000,2000,False,,5
+Hill Climbing com reinicio,primeiro_empate,5,20291113,2000,2000,False,,3
+Simulated Annealing,alfa_0.999,1,20301109,2000,2000,False,,2
+Simulated Annealing,alfa_0.999,2,20301110,2000,2000,False,,1
+Simulated Annealing,alfa_0.999,3,20301111,2000,2000,False,,2
+Simulated Annealing,alfa_0.999,4,20301112,2000,2000,False,,2
+Simulated Annealing,alfa_0.999,5,20301113,2000,2000,False,,3
+Simulated Annealing,alfa_0.99,1,20301109,2000,1256,True,1256,0
+Simulated Annealing,alfa_0.99,2,20301110,2000,2000,False,,1
+Simulated Annealing,alfa_0.99,3,20301111,2000,2000,False,,1
+Simulated Annealing,alfa_0.99,4,20301112,2000,1335,True,1335,0
+Simulated Annealing,alfa_0.99,5,20301113,2000,955,True,955,0
